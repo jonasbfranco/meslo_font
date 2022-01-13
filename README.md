@@ -1,2 +1,3 @@
-# meslo_font
+# MesloLGS Font
+
 Fonte Meslo para meus terminais
